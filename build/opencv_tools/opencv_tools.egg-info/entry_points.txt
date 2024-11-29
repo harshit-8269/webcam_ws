@@ -1,0 +1,4 @@
+[console_scripts]
+img_pub = opencv_tools.imagepub:main
+img_sub = opencv_tools.imagesub:main
+
